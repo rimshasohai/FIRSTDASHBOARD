@@ -1,2 +1,5 @@
 # FIRSTDASHBOARD
 DASHBOARD FOR AIR QUALITY MONITORING
+WEBSITE FOR DASHBOARD IS https://app.powerbi.com/view?r=eyJrIjoiYzg3MWE2ODYtYzhlYi00Zjg4LTg0YjctZjVmMDg2NGMwMThkIiwidCI6IjNiM2YzM2I4LTM5MDQtNGY1MS1iMzA5LTcwMDYyYmE0NDkzNCIsImMiOjl9
+Microsoft assword u5AvETwsatrBWqA FOR powerBI
+EMAIL rimsha@techihallucin.onmicrosoft.com FOR powerBI
